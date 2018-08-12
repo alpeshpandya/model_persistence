@@ -1,0 +1,17 @@
+pyspark
+sklearn
+keras
+caffe2
+torch
+onnx
+future
+leveldb
+numpy
+protobuf
+pydot
+python-gflags
+pyyaml
+scikit-image
+six
+torchvision
+git+https://github.com/jpmml/sklearn2pmml.git
