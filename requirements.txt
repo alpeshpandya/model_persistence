@@ -1,8 +1,6 @@
 pyspark
-sklearn
+scikit-learn
 keras
-caffe2
-torch
 onnx
 future
 leveldb
@@ -13,5 +11,4 @@ python-gflags
 pyyaml
 scikit-image
 six
-torchvision
 git+https://github.com/jpmml/sklearn2pmml.git
